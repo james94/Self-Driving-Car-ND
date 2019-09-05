@@ -87,14 +87,38 @@ Students are highly encouraged to commit their project to a GitHub repo.
 
 ### Evaluation
 
-Once you have completed your project, use the [Project Rubric]()
+Once you have completed your project, use the [Project Rubric](rubric.md) to review the project. If you have covered all of the points in the rubric, then you are ready to submit! If you see room for improvement in **any** category in which you do not meet specifications, keep working!
+
+Your project will be evaluated by a Udacity reviewer according to the same **Project Rubric**. Your project must "meet specifications" in order for your submission to pass.
 
 ### Ready to submit your project?
 
+**Local Setup Users**
+
+You can eitherr submit your project as a link to a GitHub repository or as a ZIP file. When submitting a GitHub repository, we advise creating a new repository, specific to the project you are submitting.
+
 ### Project Support
+
+If you are stuck or having difficulties with the project, don't lose hope! Talk to your mentors and fellow students in your Study Group as well as ask and answer questions tagged with the project name.
 
 ## Share your project success
 
+Passed your project? Share the good news!
 
+What you've accomplished is no small feat. Give yourself a pat on the back and some well-deserved recognition by sharing your success with your network.
 
-## Project Submission
+**Share on Twitter**
+
+**Share on Facebook**
+
+**Share on LinkedIn**
+
+## Project Submission Checklist
+
+Please review and confirm the following items:
+
+- I am confident all rubric items have been met and my project will pass as submitted.
+- Project builds correctly without errors and runs.
+- All required functionality exists and my project behaves as expected per the project's specifications.
+
+Once you have the above items, you are ready to submit!
