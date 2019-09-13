@@ -381,3 +381,47 @@ Then the neural network starts to learn! Initially, the weights (_wi_) and bias 
 Now you have a good understanding of perceptrons, let's put that knowledge to use. In the next section, you'll create the AND perceptron from the _Why Neural Networks?_ section by setting the values for weights and bias. 
 
 ## Why "Neural Networks"?
+
+Why are these objects called neural networks?
+
+Well the reason they are called neural networks is because perceptrons kind of look like neurons in the brain. On the left, we have a perceptron with 4 inputs `1, 0, 4, 2` and what the perceptron does is it calculates some equation on the input and decides to return a 1 or 0.
+
+![neuron-1.jpg](images/neuron-1.jpg)
+
+Perceptron with 4 inputs `1, 0, 4, 2`
+
+![neuron-2.jpg](images/neuron-2.jpg)
+
+Perceptron calculates the equation on the input
+
+![neuron-3.jpg](images/neuron-3.jpg)
+
+Perceptron decides toreturn a 1 or 0
+
+In a similar way neurons take inputs coming from the dendrites. These inputs are nervous impulses, so what the neuron does is it does something with the nervous impulses and it decides if it outputs a nervous impulse or not through the axon.
+
+![neuron-4.jpg](images/neuron-4.jpg)
+
+Neurons take inputs from the dendrites **nervous impulses**
+
+![neuron-5.jpg](images/neuron-5.jpg)
+
+Neuron does something with the nervous impulses
+
+![neuron-6.jpg](images/neuron-6.jpg)
+
+Neuron decides if it outputs a nervous impulse or not through the axon
+
+The way we will be creating neural networks later in this lesson is by concatenating these perceptrons, so we will be mimicing the way the brain takes neurons by taking the output from one and turning it into the input for another one.
+
+## Perceptrons as Logical Operators
+
+We'll see one of the many great applications of perceptrons as logical operators! You'll have the chance to create the perceptrons for the most common of these: **AND, OR, NOT** operators. Then we'll see what to do about the elusive **XOR** operator. Let's dive in!
+
+### AND Perceptron
+
+Some logical operators can be represented by perceptrons.
+
+Perceptrons can be represented by logical operators. We have the AND operator and it takes two inputs and returns an output. The inputs can be true or false, but the output is only true if both inputs are true. The following table shows each input combination along with the output result for the **AND** logical operator:
+
+![and-perceptron-1.jpg](images/and-perceptron-1.jpg)
